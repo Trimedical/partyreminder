@@ -4,6 +4,7 @@
 #### Zaplanowanie udanego wieczoru w nieznanym mieście dla niejednego imprezowicza może być nie lada wyzwaniem. Proces wyszukania najlepszych klubów, a następnie interesującego wydarzenia może zająć sporo czasu. 
 ## Rozwiązanie
 #### Z pomocą przychodzi bot na aplikację Messenger’a *Party_Reminder* prezentujący najlepsze imprezy w wybranym mieście.
+![alt text](https://notatnik.paad.us.edu.pl/user/mtarasiuk/files/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA10.png)
 ## Wstęp
 ### Co to jest bot ?
 #### Bot to program komputerowy, którego celem jest wyręczyć człowieka z realizacji pewnych zadań. Chat bot to taki wirtualny, automatyczny asystent, z którym możesz połączyć się na czacie, analogicznie jak rozmawiasz ze swoim znajomym. Zadaniem chat bota nie jest jednak pogawędka z użytkownikiem, a automatyzacja konwersacji tzn. w szczególności udzielanie wcześniej przygotowanych odpowiedzi na najczęściej zadawane pytania, czy realizacja konkretnych poleceń.
