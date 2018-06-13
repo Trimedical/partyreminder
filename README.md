@@ -37,12 +37,19 @@
 * ciągła aktualizacja wiadomości dzięki temu klient jest na bieżąco z nadchodzącymi wydarzeniami
 * brak konieczności uruchamiania dodatkowego    oprogramowania
 ## Konkurencja
+
 ![alt text](https://github.com/Trimedical/partyreminder/blob/master/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA9.png)
+
 * **PartyMap** - aplikacja jest dostępna na system Android. Aplikacja zawiera podobno aż 700 różnych wydarzeń na dany tydzień. Wśród nich są warsztaty, koncerty, imprezy, wydarzenia sportowe itd.
+
 ![alt text](https://github.com/Trimedical/partyreminder/blob/master/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA10.png)
-* **PituPitu** - aplikacja za pomocą kalendarza prezentuje ofertę wydarzeń w konkretnym mieście. Można dowiedzieć się, gdzie są najlepsze kluby i restauracje. Podpowiada jak dotrzeć w dane miejsce. Aplikacja jest przeznaczona na systemy Android, iOS
+
+* **PituPitu** - aplikacja za pomocą kalendarza prezentuje ofertę wydarzeń w konkretnym mieście. Można dowiedzieć się, gdzie są najlepsze kluby i restauracje. Podpowiada jak dotrzeć w dane miejsce. Aplikacja jest przeznaczona na systemy Android, iOS.
+
 ![alt text](https://github.com/Trimedical/partyreminder/blob/master/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA11.png)
+
 * **Going.** - to kolejna aplikacja, która podpowie Wam, gdzie są najlepsze koncerty, filmy, spotkania, przedstawienia teatralne. Pozwoli także na zakup biletu na dane wydarzenie. Dostępna jest na systemy Android i iOS.
+
 ## Kontakt
 * Facebook: Party_Reminder [www.facebook.com/Party_Reminder-2174854602744921](https://www.facebook.com/Party_Reminder-2174854602744921/)
 * Telefon: +48 123 456 789
